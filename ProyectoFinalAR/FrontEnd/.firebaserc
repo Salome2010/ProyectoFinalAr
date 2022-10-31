@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "frontendasvv"
-  }
+    "default": "frontendasvv",
+    "frontasv": "frontendasv"
+  },
+  "targets": {},
+  "etags": {}
 }
